@@ -1,0 +1,22 @@
+{
+  "name": "@turbocolor/css",
+  "version": "1.0.1",
+  "description": "A lightweight css library for gradient text",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turbocolor/turbocolorcss.git"
+  },
+  "author": "DWhirlpool <ludaniel20110@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turbocolor/turbocolorcss/issues"
+  },
+  "homepage": "https://github.com/turbocolor/turbocolorcss#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gradient"
+  ]
+}
