@@ -1,8 +1,7 @@
 # Turbocolor CSS
 
-<script src="main.js"></script>
-
 You Can *Easily* Create GitHub Gradient Text
+Turbocolor
 
 1. Link the Turbocolor script to your HTML File By Using A CDN
 
