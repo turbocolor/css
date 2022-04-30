@@ -4925,3 +4925,9 @@ var styles = `.turbo {
 window.onload = function() {
     addStyle(styles) 
 };
+
+function newGHGradient(content,num) {
+    document.open();
+    document.write("<h2 class='github-"+num+"'>"+content+"</h2>");
+    document.close();
+}
