@@ -3,6 +3,34 @@
 You Can *Easily* Create GitHub Gradient Text
 Turbocolor
 
+# Install
+1. `npm i @turbocolor/css`
+
+2. `yarn add @turbocolor/css`
+
+3. `pnpm i @turbocolor/css`
+
+# CDNs
+## unpkg
+```
+<script src="https://unpkg.com/@turbocolor/css@1.0.1/main.js">
+```
+
+## jsDelivr
+```
+<script src="https://cdn.jsdelivr.net/npm/@turbocolor/css@1.0.1/main.js">
+```
+
+```
+<script src="https://cdn.jsdelivr.net/npm/@turbocolor/css@1.0.1/main.min.js">
+```
+
+## esm.run
+```
+<script src="https://cdn.jsdelivr.net/npm/@turbocolor/css/+esm">
+```
+
+# Getting Started
 1. Link the Turbocolor script to your HTML File By Using A CDN
 
 ```html
