@@ -32,7 +32,7 @@ Turbocolor
 
 ## turbocolor.cdn (Recommended)
 ```
-<script src="https://turbocolor.github.io/cdn">
+<script src="https://turbocolor.github.io/turbocolor.cdn">
 ```
 
 # Getting Started
