@@ -12,26 +12,26 @@ Turbocolor
 
 # CDNs
 ## unpkg
-```
+```html
 <script src="https://unpkg.com/@turbocolor/css@1.0.1/main.js">
 ```
 
 ## jsDelivr
-```
+```html
 <script src="https://cdn.jsdelivr.net/npm/@turbocolor/css@1.0.1/main.js">
 ```
 
-```
+```html
 <script src="https://cdn.jsdelivr.net/npm/@turbocolor/css@1.0.1/main.min.js">
 ```
 
 ## esm.run
-```
+```html
 <script src="https://cdn.jsdelivr.net/npm/@turbocolor/css/+esm">
 ```
 
 ## turbocolor.cdn (Recommended)
-```
+```html
 <script src="https://turbocolor.github.io/turbocolor.cdn">
 ```
 
