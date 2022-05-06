@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Source</title>
+        <script src="https://cdn.tailwindcss.com"></script>
+        <script src="https://unpkg.com/alpinejs@3.10.2/dist/cdn.min.js"></script>
+        <style>
+            @import url('https://rsms.me/inter/inter.css');
+            html {
+                font-family: 'Inter', sans-serif; 
+            }
+            @supports (font-variation-settings: normal) {
+                html {
+                    font-family: 'Inter var', sans-serif; 
+                }
+            }
+        </style>
+    </head>
+    <body onload="source = window.open('source.html',width=500,height='500');">
+        <div class="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-lg flex items-center space-x-4">
+            <div>
+              <div class="text-xl font-medium text-black">Platform</div>
+              <p class="text-slate-500" x-text="navigator.platform"></p>
+            </div>
+        </div>
+        <br />
+        <div class="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-lg flex items-center space-x-4">
+            <div>
+                <div class="text-xl font-medium text-black">UserAgent</div>
+                <p class="text-slate-500" x-text="navigator.userAgent"></p>
+            </div>
+        </div>  
+    </body>
+</html>
