@@ -3,6 +3,9 @@
 You Can *Easily* Create GitHub Gradient Text
 Turbocolor
 
+[![Rate this package](https://badges.openbase.com/js/rating/@turbocolor/css.svg?style=openbase&token=Us/h1yPWg8066525Oz7V00NEqEhNBdR2B6zcl+eu2nE=)](https://openbase.com/js/@turbocolor/css?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
+[![Featured on Openbase](https://badges.openbase.com/js/featured/@turbocolor/css.svg?style=openbase&token=Us/h1yPWg8066525Oz7V00NEqEhNBdR2B6zcl+eu2nE=)](https://openbase.com/js/@turbocolor/css?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
+
 # Install
 1. `npm i @turbocolor/css`
 
@@ -32,7 +35,7 @@ Turbocolor
 
 ## turbocolor.cdn (Recommended)
 ```html
-<script src="https://turbocolor.github.io/turbocolor.cdn"></script>
+<script src="https://turbocolor-cdn.vercel.app"></script>
 ```
 
 # Getting Started
@@ -79,4 +82,4 @@ Turbocolor
     ```js
     newGHGradient("Hello World"/*← This Is The Content */,1/*← This Is The Gradient Number */);
     ```
-**[Source Code](https://turbocolor.github.io/css/source)**
+**[Source Code](https://turbocolor-css.vercel.app)**
