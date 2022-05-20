@@ -2,6 +2,6 @@
 <ShortName>TurboCSS</ShortName>
 <Description>Search TurboCSS</Description>
 <InputEncoding>UTF-8</InputEncoding>
-<Url type="text/html" method="get" template="https://turbo-css.vercel.app/search?q={searchTerms}&ref=opensearch"/>
-<moz:SearchForm>https://turbo-css.vercel.app/search</moz:SearchForm>
+<Url type="text/html" method="get" template="https://turbocolor-css.vercel.app/search?q={searchTerms}&ref=opensearch"/>
+<moz:SearchForm>https://turbocolor-css.vercel.app/search</moz:SearchForm>
 </OpenSearchDescription>
