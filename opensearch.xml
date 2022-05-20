@@ -1,0 +1,7 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<ShortName>TurboCSS</ShortName>
+<Description>Search TurboCSS</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Url type="text/html" method="get" template="https://turbo-css.vercel.app/search?q={searchTerms}&ref=opensearch"/>
+<moz:SearchForm>https://turbo-css.vercel.app/search</moz:SearchForm>
+</OpenSearchDescription>
